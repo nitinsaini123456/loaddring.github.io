@@ -1,0 +1,218 @@
+.logo {
+  height: 60px;
+}
+
+.pt {
+  padding-top: 190px;
+}
+
+.pt1 {
+  padding-top: 150px;
+}
+
+.slider {
+  width: 100%;
+  height: 500px;
+  background-image: url(../img/slider.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.heading {
+  color: #fff;
+  font-size: 60px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.btn1 {
+  margin-top: 20px;
+  border-radius: 15px;
+  height: 42px;
+  width: 159px;
+  background-color: orange;
+  color: #fff;
+  border: none;
+  margin-left: 62px;
+}
+
+@media screen and (max-width: 480px) {
+  .btn {
+    margin-top: 20px;
+    border-radius: 15px;
+    height: 42px;
+    width: 159px;
+    background-color: orange;
+    color: #fff;
+    border: none;
+    margin-left: 150px;
+  }
+}
+.p1 {
+  color: #fff;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 20px;
+}
+
+.p2 {
+  color: #fff;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.im1 {
+  height: 500px;
+  width: 80%;
+}
+
+.slider1 {
+  width: 100%;
+  height: 500px;
+  background-image: url(../img/slider3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btn2 {
+  background-color: orange;
+  color: #fff;
+  height: 37px;
+  width: 150px;
+  border-radius: 10px;
+}
+
+.heading1 {
+  color: #fff;
+  font-size: 25px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.slider2 {
+  width: 100%;
+  height: 500px;
+  background-image: url(../img/slider2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fo {
+  border-radius: 10px;
+  height: 47px;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.al {
+  border-radius: 10px;
+  height: 47px;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.nav-btn {
+  border-radius: 11px;
+  background-color: orange;
+  margin-top: 6px;
+}
+
+.slider3 {
+  width: 100%;
+  height: 500px;
+  background-image: url(../img/slider.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.im-l {
+  margin-left: 50px;
+}
+
+.im-3 {
+  width: 80%;
+  height: 400px;
+}
+
+.heading2 {
+  color: #fff;
+  font-size: 30px;
+  margin-left: 50px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.p-3 {
+  margin-left: 20px;
+}
+
+.p4 {
+  color: orange;
+}
+
+.p5 {
+  color: #fff;
+}
+
+.slider5 {
+  width: 100%;
+  height: 500px;
+  background-image: url(../img/slider4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.slider6 {
+  width: 100%;
+  height: 500px;
+  background-image: url(../img/banner3.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.slider7 {
+  width: 100%;
+  height: 400px;
+  background-image: url(../img/contact.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btn3 {
+  margin-left: 20px;
+}
+
+.slider8 {
+  width: 100%;
+  height: 400px;
+  background-image: url(../img/bg-reservation.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.im-4 {
+  margin-left: 30px;
+}
+
+.view a {
+  text-decoration: none;
+}
+
+.btn4 {
+  width: 132px;
+  height: 41px;
+  border-radius: 16px;
+  color: #000;
+  border: none;
+  background-color: orange;
+  margin-top: 10px;
+}
+
+.u ul li {
+  list-style-type: none;
+}
+.u ul li a {
+  text-decoration: none;
+  color: orange;
+}
+
+.hov ul:hover li:hover a:hover {
+  color: orange !important;
+}
+
+.hov ul li a {
+  color: #fff !important;
+}/*# sourceMappingURL=style.css.map */
